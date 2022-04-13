@@ -67,10 +67,3 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
-
-
-TODO:
-
-1. Нужно построить 1-4 графика с возможностью выбора даты
-2. Каждый график может отобразить данные с другого графика
-3. график должен быть конфигурированным менять тип с бар на лайн и менять цвет

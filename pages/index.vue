@@ -40,7 +40,6 @@
 import { useGlobalCovidData } from '@/composables/useGlobalCovidData'
 
 export default {
-  name: 'Home',
   setup () {
     const { globalCovidData, dataDate } = useGlobalCovidData()
 

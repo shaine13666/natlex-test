@@ -85,6 +85,7 @@ import {
 } from '@nuxtjs/composition-api'
 
 export default defineComponent({
+  name: 'Home',
   setup () {
     const { $axios } = useContext()
 
